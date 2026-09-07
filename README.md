@@ -148,7 +148,7 @@ A typical project layout is:
 
 ```text
 ├── dataset.csv                 # Raw Telco Customer Churn dataset (7,043 rows, 21 columns)
-├── notebook.ipynb              # Jupyter Notebook with complete EDA, preprocessing, and model pipelines
+├── Practical_Exam.ipynb              # Jupyter Notebook with complete EDA, preprocessing, and model pipelines
 ├── requirements.txt            # Python dependencies
 ├── model.joblib / model.pkl    # Serialized production pipeline (Model, Scaler, Column Metadata)
 └── README.md                   # Detailed project documentation and business guidelines
